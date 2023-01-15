@@ -1,5 +1,5 @@
 # HangingManny
-<p>HangManny is an engaging and exciting mobile Android 2-D single-player word game where players navigate vertically through bustling environments to collect letters. As the player collects more letters, difficulty increases until they eventually fall or can create a word with accumulated letters. This interactive game will include the following features (subject to change):<br>
+<p>HangingManny is an engaging and exciting mobile Android 2-D single-player word game where players navigate vertically through bustling environments to collect letters. As the player collects more letters, difficulty increases until they eventually fall or can create a word with accumulated letters. This interactive game will include the following features (subject to change):<br>
 
 *   **Registration:** Upon opening the application, new players will be prompted to create a username and password. The username and password will be saved and authenticated by logging in for returning application usage.<br>
 
