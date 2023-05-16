@@ -18,6 +18,24 @@
 *   **Leaderboard:** The leaderboard will be a culmination of all the statistics the players in the game acquire. The leaderboards will have rankings based on letters collected, levels completed, words formed, and survival time.</p>
 
 
+## Home Screen
+![](pics/homescreen.png)
+
+## Login Screen
+![](pics/login.png)
+## Registration Screen
+![](pics/registration.png)
+## Profile Screen
+![](pics/profile.png)
+## Character Selection Screen
+![](pics/char_select.png)
+## Game Screen
+![](pics/gameplay.png)
+## Pause Menu
+![](pics/pause_menu.png)
+## Game Over Screen
+![](pics/game_over.png)
+
 ## Running HangingManny
 <p>
 On the USB drive, locate the “HangingManny.apk” file, which is an Android Package file. Download this file to an Android device running an operating system Android 5.0 Lollipop or higher. The application should automatically populate the home screen with an Android widget. Open the app by clicking the icon.
